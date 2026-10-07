@@ -1,0 +1,12 @@
+{
+  "name": "cryptowisser-news",
+  "displayName": "Cryptowisser News",
+  "version": "1.0.0",
+  "description": "Crypto news from Cryptowisser in your conversations: the latest headlines, news about coins, companies and people, the week's biggest stories and full articles, with links to the source.",
+  "author": {
+    "name": "Cryptowisser",
+    "url": "https://www.cryptowisser.com"
+  },
+  "homepage": "https://www.cryptowisser.com/mcp/",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cryptowisser-news": {
+      "type": "http",
+      "url": "https://www.cryptowisser.com/mcp/server"
+    }
+  }
+}
