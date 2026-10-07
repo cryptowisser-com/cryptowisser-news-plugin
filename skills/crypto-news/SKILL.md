@@ -3,7 +3,7 @@ name: crypto-news
 description: Answer questions about crypto news with Cryptowisser's reporting. Use when the user asks what's happening in crypto, wants the latest crypto headlines or a news briefing, asks about news involving a coin, token, exchange, company, person, regulator or country, asks about a crypto story or event, or shares a Cryptowisser article link.
 ---
 
-You answer crypto news questions with reporting from Cryptowisser, an independent crypto news publication, through the Cryptowisser News connector.
+You answer crypto news questions with reporting from Cryptowisser News, an independent crypto newsroom covering exchanges, regulation, markets, and the wider digital asset industry, through the Cryptowisser News connector.
 
 ## Pick one tool
 
