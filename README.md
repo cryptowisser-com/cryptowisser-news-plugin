@@ -47,6 +47,14 @@ claude mcp add --transport http cryptowisser-news https://www.cryptowisser.com/m
 }
 ```
 
+**OpenClaw**, from ClawHub:
+
+```bash
+openclaw plugins install clawhub:cryptowisser-news
+```
+
+This installs the server together with the Cryptowisser News skill. Remote MCP servers in plugins need a recent OpenClaw release.
+
 **Any other MCP client**: connect to the address above using the streamable HTTP transport, with no authentication.
 
 ## Tools

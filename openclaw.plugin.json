@@ -1,0 +1,23 @@
+{
+  "id": "cryptowisser-news",
+  "name": "Cryptowisser News",
+  "version": "1.0.0",
+  "description": "Up-to-date crypto news from Cryptowisser's newsroom: the latest headlines, news on any coin, company or person, this week's biggest stories and full articles, all with source links.",
+  "categories": [
+    "research"
+  ],
+  "skills": [
+    "skills"
+  ],
+  "mcpServers": {
+    "cryptowisser-news": {
+      "url": "https://www.cryptowisser.com/mcp/server",
+      "transport": "streamable-http"
+    }
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
