@@ -8,5 +8,7 @@
     "url": "https://www.cryptowisser.com"
   },
   "homepage": "https://www.cryptowisser.com/mcp/",
-  "license": "MIT"
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.cryptowisser.com/privacy-policy/"
 }
