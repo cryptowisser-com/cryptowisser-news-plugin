@@ -21,7 +21,7 @@ Claude picks the right tool, shows the matching articles as cards, and summarize
 
 ## Data
 
-The plugin connects to `https://www.cryptowisser.com/mcp/server` and sends only the requests Claude makes to it, such as a search term, the name of a coin, company or person, or a date range. Your conversations are not sent to Cryptowisser. Cryptowisser keeps request logs for up to 90 days to operate and improve the service, as described in its [Privacy Policy](https://www.cryptowisser.com/privacy-policy/). The plugin runs no code on your machine and stores nothing itself.
+The plugin connects to `https://www.cryptowisser.com/mcp/server` and sends only the requests Claude makes to it, such as a search term, the name of a coin, company or person, or a date range. Your conversations are not sent to Cryptowisser. Cryptowisser keeps request logs for up to 30 days to operate and improve the service, as described in its [Privacy Policy](https://www.cryptowisser.com/privacy-policy/). The plugin runs no code on your machine and stores nothing itself.
 
 ## Support
 
